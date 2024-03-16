@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Ronaldo Domingues 👋
 
-<!--
-**ronaldo-dsantos/ronaldo-dsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer and I'm studying Web Development at [Rocketseat](https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack
+- Main language:  `JavaScript`
+- Backend: `Nodejs`
+- Frontend: `HTML5`, `CSS3` e `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git` & `GitHub`
+- Tools: `VsCode`
+- I'm mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### Contacts
+  - Email: ronaldo.dsantos@hotmail.com
+  - Linkedin: https://www.linkedin.com/in/ronaldo-domingues/
