@@ -12,6 +12,6 @@ I'm a Web Developer and I'm studying Web Development at [Rocketseat](https://www
 - Tools: `VsCode`
 - I'm mostly active within the `Rocketseat Community`
 
-  #### Contacts
-  - Email: ronaldo.dsantos@hotmail.com
-  - Linkedin: https://www.linkedin.com/in/ronaldo-domingues/
+#### Contacts
+- Email: ronaldo.dsantos@hotmail.com
+- Linkedin: https://www.linkedin.com/in/ronaldo-domingues/
