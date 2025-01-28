@@ -17,5 +17,5 @@ Front-end
 `HTML5`, `CSS3`, `JavaScript` & `React`
 
 📫 Contato
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/ronaldo-domingues/)
 📧 ronaldo.dsantos@hotmail.com
