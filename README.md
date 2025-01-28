@@ -6,9 +6,7 @@ Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e ino
 
 🚀 Sobre mim
 
-Atualmente, estou me especializando em .NET através da plataforma Desenvolvedor.io.
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho.
-Experiência prática em aplicações ASP.NET MVC, ASP.NET WEB API e REACT.
+Atualmente, estou me especializando em .NET através da plataforma Desenvolvedor.io, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e tenho experiência prática em aplicações ASP.NET MVC, ASP.NET WEB API e REACT.
 
 🛠️ Tecnologias e Ferramentas
 
