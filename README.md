@@ -1,6 +1,7 @@
 👋 Olá! Eu sou Ronaldo Domingues
 
 🌟 Desenvolvedor .NET | C# | ASP.NET Core | Entity Framework | SQL Server
+
 Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e inovação. Com mais de 20 anos de experiência em liderança e gestão, agora estou dedicando minha trajetória ao desenvolvimento de software, unindo minha bagagem profissional com habilidades técnicas em tecnologias modernas como .NET e React.
 
 🚀 Sobre mim
