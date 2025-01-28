@@ -14,20 +14,10 @@ Sou um desenvolvedor em transição de carreira, apaixonado por tecnologia e ino
 🛠️ Tecnologias e Ferramentas
 
 Back-end
-`C#`
-`ASP.NET Core`
-`Entity Framework`
-`SQL Server`
+`C#`, `ASP.NET Core`, `Entity Framework` & `SQL Server`
 
 Front-end
-`HTML5`
-`CSS3`
-`JavaScript`
-`React`
-
-📂 Meus Projetos
-
-Confira meus repositórios para explorar meus projetos.
+`HTML5`, `CSS3`, `JavaScript` & `React`
 
 📫 Contato
 💼 LinkedIn
