@@ -19,5 +19,4 @@ Front-end
 📫 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/ronaldo-domingues/)
-
 📧 [E-mail](ronaldo.dsantos@hotmail.com)
