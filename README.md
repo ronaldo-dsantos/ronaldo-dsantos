@@ -6,5 +6,5 @@ Atualmente, estou me especializando em .NET através da plataforma Desenvolvedor
 
 🛠️ Tecnologias e Ferramentas
 
-- Back-end: `C#`, `ASP.NET Core`, `Entity Framework` & `SQL Server`
-- Front-end: `HTML5`, `CSS3`, `JavaScript` & `React`
+- Back-end: `C#`, `ASP.NET Core`, `Entity Framework` e `SQL Server`
+- Front-end: `HTML5`, `CSS3`, `JavaScript` e `React`
