@@ -1,10 +1,42 @@
-👋 Olá! Eu sou Ronaldo Domingues
+# 👨‍💻 Ronaldo Domingues
 
-Sou um desenvolvedor .NET em transição de carreira, apaixonado por tecnologia e inovação. Com mais de 20 anos de experiência em liderança e gestão, agora estou dedicando minha trajetória ao desenvolvimento de software, unindo minha bagagem profissional com habilidades técnicas em tecnologias modernas como .NET e React.
+### Desenvolvedor .NET | ASP.NET Core | C# | SQL Server | Foco em soluções escaláveis, limpas e de alto desempenho
 
-Atualmente, estou me especializando em .NET através da plataforma Balta.io e Desenvolvedor.io, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho e tenho experiência prática em aplicações ASP.NET MVC, ASP.NET WEB API e REACT.
+---
 
-🛠️ Tecnologias e Ferramentas
+👋 Olá! Eu sou o **Ronaldo Domingues**, desenvolvedor especializado em aplicações web utilizando o ecossistema .NET. Tenho experiência prática no desenvolvimento de APIs RESTful, sistemas web com ASP.NET Core e manipulação de dados com Entity Framework e SQL Server.
 
-- Back-end: `C#`, `ASP.NET Core`, `Entity Framework` e `SQL Server`
-- Front-end: `HTML5`, `CSS3`, `JavaScript` e `React`
+Atuo com foco em performance, arquitetura em camadas, boas práticas como SOLID e Clean Code, e estou sempre buscando aprimoramento contínuo por meio de formações e projetos práticos. Acredito que a tecnologia deve ser uma ferramenta para gerar impacto real, eficiência e inovação nos negócios.
+
+---
+
+## 🧠 Especialidades Técnicas
+
+**Back-end**  
+- C#, ASP.NET Core (MVC e Web API)  
+- Entity Framework Core  
+- SQL Server  
+- Autenticação e autorização com Identity  
+- Boas práticas: SOLID, Clean Architecture, DDD (em estudo)  
+- Testes automatizados (em progresso)
+
+**Front-end**  
+- HTML5, CSS3, JavaScript  
+- ReactJS
+- Consumo de APIs e responsividade
+
+**Ferramentas e DevOps**  
+- Git & GitHub  
+- Postman, Swagger  
+- Docker 
+- Visual Studio, VS Code  
+- IIS, Azure
+
+---
+
+Estou em constante evolução como desenvolvedor .NET e aberto a oportunidades para contribuir com soluções técnicas de qualidade e impacto real
+
+
+
+
+
