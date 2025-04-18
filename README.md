@@ -1,19 +1,17 @@
-👋 Olá! Eu sou o **Ronaldo Domingues**, desenvolvedor especializado em aplicações web utilizando o ecossistema .NET. Tenho experiência prática no desenvolvimento de APIs RESTful, sistemas web com ASP.NET Core e manipulação de dados com Entity Framework e SQL Server.
+# 👋 Olá, sou Ronaldo Domingues
 
-Atuo com foco em performance, arquitetura limpa, boas práticas como SOLID e Clean Code, e estou sempre buscando aprimoramento contínuo por meio de formações e projetos práticos. Acredito que a tecnologia deve ser uma ferramenta para gerar impacto real, eficiência e inovação nos negócios.
+Sou Desenvolvedor .NET Júnior com experiência prática no desenvolvimento de aplicações web, APIs RESTful e soluções escaláveis com C#, ASP.NET Core, Entity Framework e SQL Server. 
 
-## 🧠 Especialidades Técnicas
+Minha jornada na tecnologia é impulsionada por uma carreira sólida de mais de 20 anos em grandes empresas como o Grupo Fleury, onde atuei com liderança de equipes, automação de processos e otimização de operações. Essa bagagem me proporciona uma visão estratégica e foco em entregar valor através da tecnologia.
 
-**Back-end**  
-``C#`` ``ASP.NET Core (MVC e Web API)`` ``Entity Framework Core`` ``SQL Server`` ``Autenticação e autorização com Identity`` ``JWT`` ``Boas práticas: SOLID, Clean Architecture e DDD`` ``Testes automatizados``
+## Tecnologias e Ferramentas
+- **Back-end:** C#, ASP.NET Core (MVC e Web API), Entity Framework Core, SQL Server
+- **Front-end:** HTML, CSS, JavaScript, React
+- **DevOps & Deploy:** Azure, IIS
+- **Segurança:** ASP.NET Identity, JWT
+- **Outros:** Git, GitHub, Docker, Swagger, xUnit, Moq
 
-**Front-end**  
-``HTML5`` ``CSS3`` ``JavaScript`` ``ReactJS`` ``Consumo de APIs e responsividade``
-
-**Ferramentas e DevOps**  
-``Visual Studio`` ``VS Code`` ``Git`` ``GitHub`` ``Postman`` ``Swagger`` ``Docker`` ``IIS`` ``Azure``
-
-
+Atualmente, estou buscando minha primeira oportunidade como Desenvolvedor .NET Júnior, com foco em aplicar minhas habilidades técnicas, crescer junto com um time colaborativo e contribuir com projetos de impacto.
 
 
 
